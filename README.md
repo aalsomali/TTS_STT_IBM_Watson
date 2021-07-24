@@ -16,8 +16,12 @@ The fourth task is to:
 
 [tasks completed]
 
+Text To Speech:
 - converting speech to text and saving the output as .txt file
-- converting text to speech and saving the output as .mp3 file
+
+Speech To Text:
+- converting english text to speech and saving the output as .mp3 file
+- converting arabic text to speech and saving the output as .mp3 file
 
 [Issues]
 
