@@ -12,6 +12,7 @@ The fourth task is to:
 [Languages used in the project]
 
 - IBM Watson
+- Jupyter Notebook
 - Python 
 
 [tasks completed]
